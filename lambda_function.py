@@ -1,5 +1,3 @@
-wait paste this code in the readme too?
-
 ### 2. `lambda_function.py`
 ```python
 import boto3

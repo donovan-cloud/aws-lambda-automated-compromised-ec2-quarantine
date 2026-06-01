@@ -1,0 +1,1 @@
+# aws-lambda-automated-compromised-ec2-quarantine
